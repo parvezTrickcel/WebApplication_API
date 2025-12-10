@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files
+.vs/
+# Visual Studio temporary files
+**/.vs/
+
+# Ignore bin and obj folders
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Other temp files
+*.DS_Store
